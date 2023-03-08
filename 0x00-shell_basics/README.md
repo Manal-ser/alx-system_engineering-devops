@@ -12,3 +12,4 @@ This directory contains scripts that:
  delete the directory my_first_directory
  write a script that changes the working directory to the previous on
  ....
+
