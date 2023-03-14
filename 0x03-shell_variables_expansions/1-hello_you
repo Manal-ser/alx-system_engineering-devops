@@ -1,2 +1,2 @@
 #!/bin/bashu
-echo "hello $USER"
+echo hello $USER
